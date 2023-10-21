@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: yellow;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+    color:yellow;
+}
+
+.character-info{
+    margin-top: 10%;
+}
